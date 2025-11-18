@@ -1,1 +1,3 @@
-
+body { font-family: Arial; padding: 20px; }
+h1 { text-align: center; }
+li { margin: 5px 0; background: #eee; padding: 10px; }
